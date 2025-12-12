@@ -5,5 +5,5 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=CONF&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando na {Sleak}<br/> Eu sou desenvolvedor de Minecraft</p>
-<p>Criando plugins...</p> <p>Plugins Finalizados!</p>
+<p>Criando plugins...</p>
 
