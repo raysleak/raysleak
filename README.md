@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=RAY&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando no servidor Sleak<br/> Criando plugins e otimizando o SERVIDOR!</p>
+<p>Trabalhando de developer<br/> Criando plugins e otimizando o SERVIDOR!</p>
 
 
